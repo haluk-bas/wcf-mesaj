@@ -1,0 +1,7 @@
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj-Servis\obj\Debug\WCF-Mesaj-Servis.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj-Servis\obj\Debug\WCF-Mesaj-Servis.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj-Servis\bin\WCF-Mesaj-Servis.dll.config
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj-Servis\bin\WCF-Mesaj-Servis.dll
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj-Servis\bin\WCF-Mesaj-Servis.pdb
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj-Servis\obj\Debug\WCF-Mesaj-Servis.dll
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj-Servis\obj\Debug\WCF-Mesaj-Servis.pdb

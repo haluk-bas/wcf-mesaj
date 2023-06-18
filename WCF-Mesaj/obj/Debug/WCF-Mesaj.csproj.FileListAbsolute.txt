@@ -1,0 +1,16 @@
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\MainWindow.g.cs
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\App.g.cs
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj_MarkupCompile.cache
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj_MarkupCompile.lref
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\bin\Debug\WCF-Mesaj.exe.config
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\bin\Debug\WCF-Mesaj.exe
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\bin\Debug\WCF-Mesaj.pdb
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\MainWindow.baml
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj.g.resources
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF_Mesaj.Properties.Resources.resources
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj.csproj.GenerateResource.cache
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj.exe
+C:\Users\home\Desktop\Yeni klasör (3)\WCF-Mesaj\WCF-Mesaj\obj\Debug\WCF-Mesaj.pdb
